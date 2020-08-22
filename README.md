@@ -1,1 +1,1 @@
-![Nina](githubprofile.gif)
+![Nina](grakify90/githubprofile.gif)
