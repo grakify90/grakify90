@@ -1,2 +1,5 @@
 ![Nina](https://github.com/grakify90/grakify90/blob/master/githubprofile.gif)
-# [Find out more about me!🤙](https://ninavanes.netlify.app/)
+# [website🤙](https://ninavanes.netlify.app/)
+# [linkedin🤙](https://www.linkedin.com/m/in/ninavanes)
+[![LinkedIn](linkedin-logo.png)](https://www.linkedin.com/m/in/ninavanes)
+[![Website](www.png)](https://ninavanes.netlify.app/)
