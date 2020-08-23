@@ -1,5 +1,3 @@
 ![Nina](https://github.com/grakify90/grakify90/blob/master/githubprofile.gif)
-[![LinkedIn](linkedin-logo.png)](https://www.linkedin.com/m/in/ninavanes)
-[![Website](www.png)](https://ninavanes.netlify.app/)
-[<img src="linkedin-logo.png">](https://www.linkedin.com/m/in/ninavanes)
-[<img src="www.png">](https://ninavanes.netlify.app/)
+[<img src="https://github.com/grakify90/grakify90/blob/master/linkedin-logo.png">](https://www.linkedin.com/m/in/ninavanes)
+[<img src="https://github.com/grakify90/grakify90/blob/master/www.png">](https://ninavanes.netlify.app/)
